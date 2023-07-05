@@ -39,7 +39,7 @@ if __name__ == "__main__":
                         help="The directory of the clean reference data")
     parser.add_argument("--modelroot", default="models",
                         help="The root directory of trained models")
-    parser.add_argument("--outputroot", default="img",
+    parser.add_argument("--outputroot", default="results",
                         help="The root directory of output images")
     parser.add_argument("--testdata", default="BSD300",
                         help="BSD300 or KODAK or SET14")

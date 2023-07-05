@@ -78,13 +78,11 @@ python test.py --strategy RC --testdata BSD300 --srcpath BSD300_noisy --tarpath 
 
 ### Pre-trained networks
 
-You can find pre-trained networks for denoising AWGN here: https://drive.google.com/drive/folders/1t6DRISolaRwlfbVDk_-LVg4IZEM0-dBZ?usp=sharing
+You can find pre-trained networks for denoising AWGN in the corresponding directory under the `model/`. 
 
 ## A Demo
 
-We provide a demo on the SET14 dataset, which requires you to download the pre-trained network according to the aforementioned URL and place it in the corresponding directory under the `model/`.
-
-You only need to run the following command, and the denoised images of SET14 will be found in the `img/OPD-RC_ILSVRC2012val_AWGN_SET14` directory. For the demo under OPD-AL, the operation is similar.
+We provide a demo on the SET14 dataset. You only need to run the following command, and the denoised images of SET14 will be found in the `results/OPD-RC_ILSVRC2012val_AWGN_SET14` directory. For the demo under OPD-AL, the operation is similar.
 
 ```
 python demo.py 
