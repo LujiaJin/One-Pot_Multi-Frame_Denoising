@@ -1,0 +1,10 @@
+torch==1.7.0
+torchvision==0.8.1
+Pillow==8.4.0
+numpy~=1.19.2
+natsort==8.0.0
+tensorboardX==2.4.1
+skimage==0.17.2
+libtiff~=0.4.2
+scikit-image==0.18.3
+tqdm==4.62.3
