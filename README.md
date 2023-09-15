@@ -1,6 +1,6 @@
 # One-Pot Multi-Frame Denoising
 
-**The corresponding paper has been accepted as a Spotlight at the 33rd British Machine Vision Conference ([BMVC 2022](https://bmvc2022.mpi-inf.mpg.de/61/)), and an extended version is published on the International Journal of Computer Vision ([IJCV](https://bmvc2022.mpi-inf.mpg.de/61/)).**
+**The corresponding paper has been accepted as a Spotlight at the 33rd British Machine Vision Conference ([BMVC 2022](https://bmvc2022.mpi-inf.mpg.de/61/)), and an extended version is published on the International Journal of Computer Vision ([IJCV](https://link.springer.com/article/10.1007/s11263-023-01887-7)).**
 
 **Abstract:**
 
